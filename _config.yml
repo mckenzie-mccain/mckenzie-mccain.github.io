@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "McKenzie McCain"
   pronouns         : # example: "she/her"  
-  bio              : "Biotechnology and Robotics Engineer @ Texas A&M University"
+  bio              : "Biotechnology and Robotics Engineer at Texas A&M University"
   location         : "College Station, TX"
   employer         : "Texas A&M University"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/mckenzie-mccain/"
+  linkedin         : "mckenzie-mccain"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
