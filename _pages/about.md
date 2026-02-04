@@ -15,3 +15,6 @@ I am a hatchling director for one of the largest project-based organizations at 
 * **Biomimetic Robotics:** 
 * **Human-Machine Interface:** 
 * **Exoskeleton Control:** 
+
+## Contact
+Feel free to reach out to me via my [university email](mailto:kemping01@tamu.edu), [personal email](mailto:mccainmckenzie@gmail.com), or connect with me on [LinkedIn](https://linkedin.com/in/mckenzie-mcain/)!
