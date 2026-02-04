@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "McKenzie McCain"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "McKenzie McCain / Profile"
 title_separator          : "-"
 name                     : &name "McKenzie McCain"
 description              : &description "McKenzie McCain's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "McKenzie McCain"
   pronouns         : # example: "she/her"  
-  bio              : "Biotechnology and Robotics Engineer at Texas A&M University"
+  bio              : "Robotics and Bionics Engineer from Texas A&M University"
   location         : "College Station, TX"
   employer         : "Texas A&M University"
   uri              : # URL
