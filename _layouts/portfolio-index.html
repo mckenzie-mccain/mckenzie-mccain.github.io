@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <div class="page__inner-wrap portfolio-page">
+    <header class="page__title">
+      <h1>{{ page.title }}</h1>
+    </header>
+
+    <div class="portfolio-grid">
+      {% for post in site.portfolio %}
+        <a class="portfolio-card" href="{{ post.url | relative_url }}">
+          {% if post.teaser %}
+            <img src="{{ post.teaser | relative_url }}" alt="{{ post.title }}">
+          {% elsif post.header.teaser %}
+            <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
+          {% endif %}
+
+          <div class="portfolio-card-text">
+            <div class="portfolio-card-title">{{ post.title }}</div>
+            {% if post.excerpt %}
+              <div class="portfolio-card-excerpt">{{ post.excerpt | strip_html }}</div>
+            {% endif %}
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
