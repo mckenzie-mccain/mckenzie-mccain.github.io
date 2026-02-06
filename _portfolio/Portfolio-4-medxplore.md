@@ -1,8 +1,6 @@
 ---
 title: "MedXplore Competition"
-permalink: /portfolio/medxplore/
+excerpt: "???<br><img src='/images/500x300.png'>"
 collection: portfolio
-excerpt: "???"
-header:
-  teaser: /images/500x300.png
+permalink: /portfolio/medxplore/
 ---

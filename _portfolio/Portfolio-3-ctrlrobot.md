@@ -1,8 +1,6 @@
 ---
 title: "CtrlRobot"
-permalink: /portfolio/ctrlrobot/
+excerpt: "???<br><img src='/images/500x300.png'>"
 collection: portfolio
-excerpt: "???"
-header:
-  teaser: /images/500x300.png
+permalink: /portfolio/ctrlrobot/
 ---
