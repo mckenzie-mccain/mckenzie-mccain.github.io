@@ -1,8 +1,7 @@
 ---
 title: "Universal Controller"
-permalink: /portfolio/HURC/
+excerpt: "???<br/><img src='/images/500x300.png'>"
 collection: portfolio
-excerpt: "???"
-header:
-  teaser: /images/hurc.png
+permalink: /portfolio/hurc/
 ---
+text here :p
