@@ -1,9 +1,11 @@
 ---
 title: "OLSN"
+permalink: /portfolio/olsn/
 collection: portfolio
 excerpt: "EMG-controlled prosthetic hand for local boy."
-breadcrumbs: true
+header:
+  teaser: /images/500x300.pngs
 ---
 
-[← Back to Portfolio](/portfolio/)
 ![Fall '25 Showcase](/images/OLSN2025FallShowcase.jpeg)
+
