@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /portfolio/medxplore/
 ---
 
-[Repository](https://github.com/mckenzie-mccain/MedXplore)
+[Github Repository](https://github.com/mckenzie-mccain/MedXplore)
 
 
 [← Back to Portfolio](/portfolio/)
