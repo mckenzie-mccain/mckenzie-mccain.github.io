@@ -21,5 +21,8 @@ permalink: /portfolio/marble-maze/
   * Accomodating to elderly individuals
   * Intuitive gameplay mechanics
 
+|       ![marble-maze](/images/marble-maze.png)        |
+| :--------------------------------------------------: |
+|      *Modular Marble Maze Game for the Elderly*      |
 
 [← Back to Portfolio](/portfolio/)
