@@ -1,6 +1,6 @@
 ---
 title: "MedXplore Competition"
-excerpt: "Prototypeda knee brace; won 2nd place within division.<br>[![MedXplore](/images/500x300.png)](/portfolio/medxplore/)"
+excerpt: "Knee brace prototype--2nd place within division.<br>[![MedXplore](/images/500x300.png)](/portfolio/medxplore/)"
 collection: portfolio
 permalink: /portfolio/medxplore/
 ---

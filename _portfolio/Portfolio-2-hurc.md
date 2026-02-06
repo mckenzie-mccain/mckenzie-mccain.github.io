@@ -1,6 +1,6 @@
 ---
-title: "Universal Controller"
-excerpt: "Designed a controller for competition robots.<br>[![HURC](/images/Hatchling/hurc.JPG)](/portfolio/hurc/)"
+title: "H.U.R.C."
+excerpt: "Universal controller for competition robots.<br>[![HURC](/images/Hatchling/hurc.JPG)](/portfolio/hurc/)"
 collection: portfolio
 permalink: /portfolio/hurc/
 ---

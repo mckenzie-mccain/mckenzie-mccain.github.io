@@ -1,6 +1,6 @@
 ---
 title: "Hatchling Robot"
-excerpt: "Built a competition robot, achieving the highest stack record.<br>[![Hatchling](/images/Hatchling/tara.jpeg)](/portfolio/hatchling/)"
+excerpt: "Competition robot--achieved highest stack record.<br>[![Hatchling](/images/Hatchling/tara.jpeg)](/portfolio/hatchling/)"
 collection: portfolio
 permalink: /portfolio/hatchling/
 ---
