@@ -15,18 +15,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  {%- assign _archive_classes = "archive" -%}
-  {%- if page.classes -%}
-    {%- if page.classes.first -%}
-      {%- for _c in page.classes -%}
-        {%- assign _archive_classes = _archive_classes | append: " " | append: _c -%}
-      {%- endfor -%}
-    {%- else -%}
-      {%- assign _archive_classes = _archive_classes | append: " " | append: page.classes -%}
-    {%- endif -%}
-  {%- endif -%}
-
-  <div class="{{ _archive_classes }}">
+  <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
