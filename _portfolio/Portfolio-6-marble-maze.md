@@ -1,6 +1,6 @@
 ---
 title: "Marble Maze"
-excerpt: "???<br><img src='/images/marble-maze.png'>"
+excerpt: "Designed a modular marble maze game,winning Best Prototype at the MEEN 210 Project Showcase.<br><img src='/images/marble-maze.png'>"
 collection: portfolio
 permalink: /portfolio/marble-maze/
 ---

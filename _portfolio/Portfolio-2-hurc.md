@@ -1,9 +1,9 @@
 ---
 title: "Universal Controller"
-excerpt: "???"
+excerpt: "Designed and built a universal robot controller for hatchling competition robots.<br>[![HURC](/images/hurc.JPG)](/portfolio/hurc/)"
 collection: portfolio
 permalink: /portfolio/hurc/
-teaser: /images/500x300.png
 ---
-test using teaser for grid image
+
+
 [← Back to Portfolio](/portfolio/)

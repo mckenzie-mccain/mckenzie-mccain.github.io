@@ -1,6 +1,6 @@
 ---
-title: "OLSN'"
-excerpt: "[![OLSN](/images/500x300.png)](/portfolio/olsn/)<br>EMG-Controlled prosthetic hand for a local boy."
+title: "OLSN"
+excerpt: "EMG-Controlled prosthetic hand for a local boy.<br>[![OLSN](/images/500x300.png)](/portfolio/olsn/)"
 collection: portfolio
 permalink: /portfolio/olsn/
 ---
