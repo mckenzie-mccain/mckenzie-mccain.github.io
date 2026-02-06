@@ -7,4 +7,6 @@ permalink: /portfolio/olsn/
 
 test with excerpt using linked picture
 ![Fall '25 Showcase](/images/OLSN2025FallShowcase.jpeg)
+
+
 [← Back to Portfolio](/portfolio/)
