@@ -1,9 +1,9 @@
 ---
 title: "OLSN"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 permalink: /portfolio/olsn/
+excerpt: "EMG-controlled prosthetic hand for local boy."
 breadcrumbs: true
 ---
 
-![Fall '25 Showcase](/images/OLSN2025FallShowcase.png)
+![Fall '25 Showcase](/images/OLSN2025FallShowcase.jpeg)
