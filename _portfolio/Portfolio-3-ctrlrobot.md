@@ -1,6 +1,6 @@
 ---
 title: "CtrlRobot"
-excerpt: "A string-driven robotic gripper designed to mimic a human hand.<br>[![CtrlRobot](/images/500x300.png)](/portfolio/ctrlrobot/)"
+excerpt: "A string-driven biomimetic robotic gripper.<br>[![CtrlRobot](/images/500x300.png)](/portfolio/ctrlrobot/)"
 collection: portfolio
 permalink: /portfolio/ctrlrobot/
 ---
