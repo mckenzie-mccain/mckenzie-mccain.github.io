@@ -1,8 +1,9 @@
 ---
 title: "Universal Controller"
-excerpt: "???<br/><img src='/images/hurc.png'>"
+excerpt: "???"
 collection: portfolio
 permalink: /portfolio/hurc/
+teaser: /images/500x300.png
 ---
-text here :p
+test using teaser for grid image
 [← Back to Portfolio](/portfolio/)
