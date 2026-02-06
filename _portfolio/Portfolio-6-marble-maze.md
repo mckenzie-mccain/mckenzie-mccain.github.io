@@ -6,6 +6,7 @@ permalink: /portfolio/marble-maze/
 ---
 
 **Date:** Fall 2024
+
 **Summary:** As part of MEEN 210, our team conceptualized and prototyped a modular game for the elderly. Our design won the “Best Prototype Award” among 18 competing teams during the Project Showcase.
 
 **Team Members:** [Ian Wilhite](https://www.linkedin.com/in/ian-wilhite), [Ryan Welty](https://www.linkedin.com/in/ryan-welty/) and [Astrid Garcia](https://www.linkedin.com/in/astrid-garcia-b9b49a26b/).
