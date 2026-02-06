@@ -13,7 +13,7 @@ Currently, the controller utilizes ESP-NOW P2P connection across wifi using MAC 
     * x2 triggers, x2 bumpers, x2 joysticks
     * XYAB buttons, menu, and dpad
 
-For ease of use, a library ([TurtleReciver](/files/HURC%20Receiver%20Documentation.pdf)) was made for custom controller functions to call each trigger/button input to simplify the software process for competing teams. 
+For ease of use, a library ([TurtleReciver](/files/Fall%202025%20HURC%20Docs.pdf)) was made to create custom controller functions to call each trigger/button input to simplify the software process for competing teams. 
 
 Unlike an xbox controller, an OLED display is implemented to show button control feedback on the screen for debugging. The two figures below show the circuit diagram I made to optimize the production efficiency and the iterative process of production.
 
