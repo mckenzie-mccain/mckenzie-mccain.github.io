@@ -1,7 +1,7 @@
 ---
 title: "OLSN"
 permalink: /portfolio/olsn/
-excerpt: "EMG-Controlled prosthetic hand for a local boy.<br>[![OLSN](/images/500x300.png)](/portfolio/olsn/)"
+excerpt: "EMG-Controlled prosthetic hand for a local boy.<br>[![OLSN](/images/kaedon-hand.png)](/portfolio/olsn/)"
 collection: portfolio
 ---
 
@@ -11,6 +11,7 @@ test with excerpt using linked picture
 designing a new hand for a local child born without a major portion of his right hand due to Amniotic Band Syndrome
 
 design tables, parameterization of boy's fingers that scale as he grows
+configurations!!
 finger pad hexmesh for silicone adhesion
 ratchet mechanism on forearm and hand pulley
 double-actuated pulley system
