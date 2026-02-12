@@ -5,7 +5,6 @@ excerpt: "EMG-Controlled prosthetic hand for a local boy.<br>[![OLSN](/images/OL
 collection: portfolio
 ---
 
-test with excerpt using linked picture
 ![Fall '25 Showcase](/images/OLSN/OLSN2025FallShowcase.jpeg)
 
 <!-- designing a new hand for a local child born without a major portion of his right hand due to Amniotic Band Syndrome
