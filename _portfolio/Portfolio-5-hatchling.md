@@ -18,6 +18,7 @@ The robot integrated an ESP32-WROOM microcontroller with an L298N motor driver t
 The primary collection mechanism utilized a [telescoping arm](https://www.youtube.com/watch?v=gPZPs-l5LiU) driven by two DC motors for vertical extension and an SG90 micro servo to actuate the claw. This design allowed for optimized stacking speed, giving the robot the title of being a record holder.
 
 <!-- mention differential drive? updated github code with most recent iteration (tara??) -->
+<!-- add robot demonstration! (mention its on my linkedin??) -->
 
 |           ![New Record](/images/Hatchling/record-crop.jpeg)      |  ![Turtle Towers Competition Layout](/images/Hatchling/turtle-towers.png) |
 | :--------------------------------------------------------------: | :-----------------------------------------------------------------------: |

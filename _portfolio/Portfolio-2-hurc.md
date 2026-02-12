@@ -17,6 +17,8 @@ For ease of use, a software library ([TurtleReciver](/files/Fall%202025%20HURC%2
 
 Unlike a standard Xbox controller, H.U.R.C. implements an OLED display to provide direct feedback for debugging and displaying button/trigger controls.The  figures below show the circuit diagram I made to optimize the assembly and the iterative production process.
 
+<!-- mention that i worked on a controller over the summer as well? -->
+
 |    ![Circuit Diagram](/images/Hatchling/circuit-diagram.png)     |  ![Iterative Production](/images/Hatchling/hurc_production.JPG)  |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |        *HURC V2 Circuit Diagram created in LucidSpark*           |          *Iterative Production Process of Controllers*           |
