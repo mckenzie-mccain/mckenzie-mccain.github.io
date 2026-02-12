@@ -15,7 +15,7 @@ permalink: /portfolio/medxplore/
 
 The exoskeleton knee brace was controlled using the [H.U.R.C. controller](https://mckenzie-mccain.github.io/portfolio/hurc/) paired with an ESP32-WROOM microcontroller programmed in embedded C++. The actuation system utilized three 20kg servos driven by two PCA9685 servo drivers in a three-planet planetary gear configuration, providing the torque necessary for controlled knee extension and flexion. A Myoware 2.0 muscle sensor was integrated to detect quadriceps activation and provide EMG feedback for muscle re-education tracking.
 
-[Working Prototype Demonstration](/images/MedXplore/IMG_2136.mov)
+[Working Prototype Demonstration](https://youtube.com/shorts/1ct54--zaLg?feature=share)
 
 The control interface mapped H.U.R.C. inputs to servo positions across a 270-degree range of motion:
 
