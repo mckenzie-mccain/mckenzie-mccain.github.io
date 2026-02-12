@@ -9,6 +9,8 @@ permalink: /portfolio/medxplore/
 
 **Summary:** Our team placed 2nd in the Muscular category, where we focused on a postoperative rehabilitation challenge: addressing quadriceps atrophy and impaired neuromuscular activation following lower-extremity knee injury and surgery. We explored how integrating surface EMG and NMES into a brace-mounted system could support clinician-directed rehabilitation by improving muscle re-education and tracking recovery over time.
 
+**Team Members:** [Jack Bluethmann](https://www.linkedin.com/in/jack-bluethmann-735490291/), [Thomas Lopez](https://www.linkedin.com/in/thomas-lopez-7a353729b/), [Julia Sopala](https://www.linkedin.com/in/julia-sopala/), [Arshya Kamrani](https://www.linkedin.com/in/arshya-kamrani-ab8998330/), [Will Donaldson](https://www.linkedin.com/in/will-donaldson-b2a71a327/), and [Ryo Kato](https://www.linkedin.com/in/ryokato-texasam/).
+
 ## Technical Implementation
 
 The exoskeleton knee brace was controlled using the [H.U.R.C. controller](https://mckenzie-mccain.github.io/portfolio/hurc/) paired with an ESP32-WROOM microcontroller programmed in embedded C++. The actuation system utilized three 20kg servos driven by two PCA9685 servo drivers in a three-planet planetary gear configuration, providing the torque necessary for controlled knee extension and flexion. A Myoware 2.0 muscle sensor was integrated to detect quadriceps activation and provide EMG feedback for muscle re-education tracking.
